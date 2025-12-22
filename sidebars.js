@@ -30,6 +30,23 @@ const sidebars = {
     },
   ],
    */
+    diablo4Sidebar: [
+        'diablo4/intro',
+        {
+            type: 'category',
+            label: '시즌 11',
+            items: [
+                'diablo4/season11/index',
+            ],
+        },
+        {
+            type: 'category',
+            label: '시즌 12',
+            items: [
+                'diablo4/season12/index',
+            ],
+        }
+    ],
 };
 
 export default sidebars;
