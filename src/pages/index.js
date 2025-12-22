@@ -20,7 +20,7 @@ function HomepageHeader() {
             {/*최신글 등록하기*/}
           <Link
             className="button button--secondary button--lg"
-            to="/log/intro">
+            to="/log/index">
             최신글 바로가기
           </Link>
         </div>
