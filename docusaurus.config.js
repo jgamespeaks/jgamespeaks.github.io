@@ -28,7 +28,7 @@ const config = {
     // GitHub pages deployment config.
     // If you aren't using GitHub pages, you don't need these.
     organizationName: 'jgamespeaks', // Usually your GitHub org/user name.
-    projectName: 'jgameblog', // Usually your repo name.
+    projectName: 'jgamespeaks.github.io', // Usually your repo name.
 
     onBrokenLinks: 'throw',
 
