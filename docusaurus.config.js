@@ -114,7 +114,7 @@ const config = {
                         items: [
                             {
                                 label: 'Diablo4',
-                                to: '/docs/diablo4/intro'
+                                to: '/docs/diablo4/index'
                             }
                         ],
                     },
