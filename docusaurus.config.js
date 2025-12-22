@@ -99,7 +99,7 @@ const config = {
                 title: 'J Game Speaks',
                 logo: {
                     alt: 'My Site Logo',
-                    src: 'img/logo.svg',
+                    src: 'img/pa.png',
                 },
                 items: [
                     {to: '/log', label: 'Game Log', position: 'left'},

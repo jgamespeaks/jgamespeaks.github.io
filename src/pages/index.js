@@ -12,11 +12,14 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <Heading as="h1" className="hero__title">
-          {siteConfig.title}
-        </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
+          <Heading as="h1" className={`hero__title ${styles.glowText}`}>
+              {siteConfig.title}
+          </Heading>
+          <p className={`hero__subtitle ${styles.subPurpleGlow}`}>
+              {siteConfig.tagline}
+          </p>
+
+          <div className={styles.buttons}>
             {/*최신글 등록하기*/}
           <Link
             className="button button--secondary button--lg"
