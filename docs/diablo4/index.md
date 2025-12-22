@@ -1,5 +1,6 @@
 ---
 title: 소개
+slug: index
 tags: [디아블로]
 ---
 # 소개
