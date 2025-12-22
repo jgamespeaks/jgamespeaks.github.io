@@ -1,8 +1,8 @@
 ---
-slug: Intro
-title: Intro !!
+slug: index
+title: 소개
 authors: me
 tags: [Diablo]
 ---
 # Intro
-여기는 게임 로그를 작성하는 곳 입니다.
+게임 여정을 로깅하는 블로그입니다.
