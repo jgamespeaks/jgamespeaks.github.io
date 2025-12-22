@@ -31,7 +31,7 @@ const sidebars = {
   ],
    */
     diablo4Sidebar: [
-        'diablo4/intro',
+        'diablo4/index',
         {
             type: 'category',
             label: '시즌 11',
