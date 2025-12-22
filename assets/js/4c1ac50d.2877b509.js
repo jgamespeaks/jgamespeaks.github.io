@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[990],{9385(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\uc18c\uac1c","permalink":"/log/index","unlisted":false,"date":"2025-12-22T00:00:00.000Z"}]}')}}]);

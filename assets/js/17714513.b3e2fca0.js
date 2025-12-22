@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[342],{7662(a){a.exports=JSON.parse('{"blogBasePath":"/log","blogTitle":"My Log","authorsListPath":"/log/authors"}')}}]);

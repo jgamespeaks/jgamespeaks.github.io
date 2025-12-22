@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[857],{2798(a){a.exports=JSON.parse('{"metadata":{"permalink":"/log","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"\ud50c\ub808\uc774/\ud328\uce58/\uc2dc\uc98c \ub85c\uadf8","blogTitle":"My Log"}}')}}]);

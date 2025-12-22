@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[67],{9187(a){a.exports=JSON.parse('{"tags":[{"label":"\ub514\uc544\ube14\ub85c","permalink":"/docs/tags/\ub514\uc544\ube14\ub85c","count":1}]}')}}]);

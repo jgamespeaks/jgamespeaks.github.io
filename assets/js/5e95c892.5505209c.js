@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[647],{7121(e,a,s){s.r(a),s.d(a,{default:()=>h});s(6540);var r=s(4164),l=s(7559),u=s(5500),c=s(2831),o=s(1656),g=s(4848);function h(e){return(0,g.jsx)(u.e3,{className:(0,r.A)(l.G.wrapper.docsPages),children:(0,g.jsx)(o.A,{children:(0,c.v)(e.route.routes)})})}}}]);

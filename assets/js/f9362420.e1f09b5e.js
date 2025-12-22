@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[371],{3721(a){a.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"log"}')}}]);

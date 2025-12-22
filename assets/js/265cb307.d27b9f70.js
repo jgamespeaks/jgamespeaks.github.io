@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[641],{3461(e){e.exports=JSON.parse('{"authors":[{"name":"J Game Speaks","title":"J Game Speaks !!","url":"https://github.com/jgamespeaks","imageURL":"https://github.com/jgamespeaks.png","key":"me","page":null,"count":1}]}')}}]);

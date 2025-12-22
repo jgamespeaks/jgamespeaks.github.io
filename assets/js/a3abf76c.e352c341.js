@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[110],{1456(a){a.exports=JSON.parse('{"tags":[{"label":"Diablo","permalink":"/log/tags/diablo","count":1}]}')}}]);
