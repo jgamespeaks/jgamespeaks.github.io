@@ -1,5 +1,4 @@
 import clsx from 'clsx';
-import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
@@ -18,15 +17,6 @@ function HomepageHeader() {
           <p className={`hero__subtitle ${styles.subPurpleGlow}`}>
               {siteConfig.tagline}
           </p>
-
-          <div className={styles.buttons}>
-            {/*최신글 등록하기*/}
-          <Link
-            className="button button--secondary button--lg"
-            to="/log/index">
-            최신글 바로가기
-          </Link>
-        </div>
       </div>
     </header>
   );
