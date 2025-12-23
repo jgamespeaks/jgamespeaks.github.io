@@ -36,7 +36,9 @@ const sidebars = {
             type: 'category',
             label: '시즌 11',
             items: [
-                'diablo4/season11/01'
+                'diablo4/season11/01',
+                'diablo4/season11/02',
+
             ],
         },
         {
