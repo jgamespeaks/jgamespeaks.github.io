@@ -13,11 +13,13 @@
         <link href="https://jgamespeaks.github.io/log/index"/>
         <updated>2025-12-22T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[게임 여정을 로깅하는 블로그입니다.]]></summary>
-        <content type="html"><![CDATA[<p>게임 여정을 로깅하는 블로그입니다.</p>]]></content>
+        <content type="html"><![CDATA[<p>게임 여정을 로깅하는 블로그입니다.</p>
+<p>최근에는 디아블로4를 플레이하고 있습니다.</p>
+<p><strong>새로운 글 보러 가기</strong> : <a href="https://jgamespeaks.github.io/docs/diablo4/season11/01" target="_blank" rel="noopener noreferrer" class=""> 아이템 업그레이드 순서가 어떻게 되나? </a></p>]]></content>
         <author>
             <name>J Game Speaks</name>
             <uri>https://github.com/jgamespeaks</uri>
         </author>
-        <category label="Diablo" term="Diablo"/>
+        <category label="디아블로" term="디아블로"/>
     </entry>
 </feed>

@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkjgameblog=globalThis.webpackChunkjgameblog||[]).push([[110],{1456(a){a.exports=JSON.parse('{"tags":[{"label":"\ub514\uc544\ube14\ub85c","permalink":"/log/tags/diablo","description":"\ub514\uc544\ube14\ub85c\uc5d0 \uad00\ud55c \uac8c\uc2dc\uae00 \ubaa8\uc544\ubcf4\uae30","count":1}]}')}}]);
