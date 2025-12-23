@@ -27,7 +27,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="테크니컬 라이터의 실전 플레이 기록!!<head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
