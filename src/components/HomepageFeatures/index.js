@@ -4,50 +4,52 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: '실전 플레이 기록',
+    image: require('@site/static/bg/home01.png').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        직접 겪고 실패 경험을 바탕으로 이론이 아닌 실전 기반의 명확한 가이드를 정리합니다.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: '의견 대신 구조',
+    image: require('@site/static/bg/home02.png').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        단순한 티어표나 뇌피셜이 아닌 의사결정의 기준이 되는 게임 구조와 로직에 초점을 맞춥니다.
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: '테크니컬 로깅',
+    image: require('@site/static/bg/home03.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+          플레이, 분석 결과를 명확하고 체계적인 문서 형식으로 정리하여 독자가 즉시 활용 가능한 실전 가이드로 만듭니다.
       </>
     ),
   },
 ];
 
-function Feature({Svg, title, description}) {
-  return (
-    <div className={clsx('col col--4')}>
-      <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
-      </div>
-      <div className="text--center padding-horiz--md">
-        <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
-      </div>
-    </div>
-  );
+function Feature({image, title, description}) {
+    return (
+        <div className={clsx('col col--4')}>
+            <div className="text--center">
+                <img
+                    src={image}
+                    className={styles.featureImage}
+                    alt={title}
+                />
+            </div>
+            <div className="text--center padding-horiz--md">
+                <Heading as="h3">{title}</Heading>
+                <p>{description}</p>
+            </div>
+        </div>
+    );
 }
+
 
 export default function HomepageFeatures() {
   return (
