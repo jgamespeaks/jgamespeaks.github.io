@@ -9,3 +9,36 @@
   height: 200px;
   width: 200px;
 }
+
+@media (max-width: 996px) {
+    .featureImage {
+        max-width: 220px;
+    }
+}
+
+
+.featureImage {
+    width: 140px;          /* 필요하면 조절 */
+    height: auto;
+
+    border-radius: 16px;   /* ← 핵심: 둥글기 */
+    overflow: hidden;      /* 모서리 잘림 방지 */
+
+    margin-bottom: 1rem;
+
+    /* 살짝 띄워주는 그림자 */
+    box-shadow:
+            0 8px 20px rgba(0, 0, 0, 0.25),
+            0 2px 6px rgba(0, 0, 0, 0.15);
+
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.featureImage:hover {
+    transform: translateY(-4px);
+    box-shadow:
+            0 14px 30px rgba(0, 0, 0, 0.35),
+            0 6px 12px rgba(0, 0, 0, 0.2);
+}
+
+

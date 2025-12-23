@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
     title: 'J game speaks',
     tagline: '로깅 중...',
-    favicon: 'img/favicon.ico',
+    favicon: 'img/pa.png',
 
     // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
     future: {
