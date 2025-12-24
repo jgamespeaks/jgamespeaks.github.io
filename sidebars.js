@@ -38,6 +38,9 @@ const sidebars = {
             items: [
                 'diablo4/season11/01',
                 'diablo4/season11/02',
+                'diablo4/season11/03',
+                'diablo4/season11/04',
+                'diablo4/season11/05',
 
             ],
         },
